@@ -181,7 +181,7 @@ streamlit run dashboard/app.py
 
 ## Project Demo
 
-[▶️ Watch Demo Video](images/demo_video.mp4)
+[▶️ Watch Demo Video](https://drive.google.com/file/d/17eJjryuV-KnWHdawpSOap-sknKq4Vxlk/view?usp=drive_link)
 
 > Upload your screen recording inside the `images/` folder and rename it:
 >
